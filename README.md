@@ -1,4 +1,4 @@
-# Insurance Cost Analysis
+# Insurance Cost Prediction
 
 **Course**: MS-AAI (Applied Artificial Intelligence) — University of San Diego  
 **Team**: Team 7  
