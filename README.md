@@ -1,4 +1,4 @@
-# AIML-Projects-USD-MSAAI-Team7
+# Insurance Cost Analysis
 
 **Course**: MS-AAI (Applied Artificial Intelligence) — University of San Diego  
 **Team**: Team 7  
